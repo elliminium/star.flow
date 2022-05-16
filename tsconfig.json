@@ -3,6 +3,7 @@
     "jsx": "react",
     "allowJs": true,
     "module": "commonjs",
+    "types": ["react/next", "react-dom/next"],
     "skipLibCheck": true,
     "esModuleInterop": true,
     "noImplicitAny": true,
